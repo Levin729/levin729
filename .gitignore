@@ -44,7 +44,6 @@ log/
 *.sqlite3
 
 # Bot specific
-config.py
 *.session
 *.session-journal
 
