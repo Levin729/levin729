@@ -1,0 +1,4 @@
+aiogram>=3.0.0
+qrcode>=7.4.2
+Pillow>=10.0.0  # Required for qrcode image generation
+python-dotenv>=1.0.0  # For environment variable management 
